@@ -1,2 +1,2 @@
 # ChessEngine-in-Python
-a project, to grasp strong usage of python scripts by implementing them on real life ChessEngine.
+a project, to grasp strong usage of Python scripts by implementing them on a real-life ChessEngine.
